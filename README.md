@@ -13,6 +13,7 @@ List of Nepalese Software Companies Hosting Projects on Github
 - [Do Surf In Private Limited](https://github.com/DoSurfIn)
 - [Drupartment](https://github.com/Drupartment)
 - [Esignature Pvt. Limited](https://github.com/e-signature)
+- [Expresiv Studios](https://github.com/expresiv)
 - [Fawesome Apps](https://github.com/FawesomeApps)
 - [Foster Software](https://github.com/fostersoftware)
 - [Grepsr](https://github.com/grepsr)
