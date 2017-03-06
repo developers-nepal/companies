@@ -28,6 +28,7 @@ List of Nepalese Software Companies Hosting Projects on Github
 - [Leapfrog Technology](https://github.com/leapfrogtechnology)
 - [Logpoint](https://github.com/logpoint)
 - [Oval Analytics Pvt. Ltd.](https://github.com/OvalAnalytics)
+- [PageVamp](https://github.com/pagevamp)
 - [Pagoda Labs](https://github.com/PagodaLabs-Team)
 - [Parewa Labs](https://github.com/parewalabs)
 - [Phunka Technologies](https://github.com/phunka/)
