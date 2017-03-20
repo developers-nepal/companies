@@ -7,7 +7,7 @@ List of Nepalese Software Companies Hosting Projects on Github
 - [Axis Themes](https://github.com/axisthemes)
 - [Bajra Technologies](https://github.com/bajratech)
 - [Braindigit IT Solution](https://github.com/braindigit)
-- [Cloudfactory](https://github.com/sprout)
+- [CloudFactory](https://github.com/cloudfactory)
 - [Cyclone Nepal](https://github.com/cninfotech)
 - [Digitalaya Pvt. Ltd.](https://github.com/digitalaya)
 - [Do Surf In Private Limited](https://github.com/DoSurfIn)
