@@ -1,4 +1,4 @@
-# companies
+# companies [![Build Status](https://travis-ci.org/developers-nepal/companies.svg?branch=master)](https://travis-ci.org/developers-nepal/companies)
 List of Nepalese Software Companies Hosting Projects on Github
 
 
