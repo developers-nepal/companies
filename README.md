@@ -9,6 +9,7 @@ List of Nepalese Software Companies Hosting Projects on Github
 - [CloudFactory](https://github.com/cloudfactory)
 - [Cyclone Nepal](https://github.com/cninfotech)
 - [Do Surf In Private Limited](https://github.com/DoSurfIn)
+- [Ekbana Technologies](https://github.com/ekbanasolutions)
 - [Expresiv Studios](https://github.com/expresiv)
 - [Fawesome Apps](https://github.com/FawesomeApps)
 - [Fusemachines](https://github.com/Fusemachines)
