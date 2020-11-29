@@ -6,6 +6,7 @@ List of Nepalese Software Companies Hosting Projects on Github
 - [Awecode](https://github.com/awecode)
 - [Bajra Technologies](https://github.com/bajratech)
 - [Braindigit IT Solution](https://github.com/braindigit)
+- [Cixware Pvt. Ltd.](https://github.com/cixware)
 - [CloudFactory](https://github.com/cloudfactory)
 - [Cyclone Nepal](https://github.com/cninfotech)
 - [Do Surf In Private Limited](https://github.com/DoSurfIn)
