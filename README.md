@@ -8,6 +8,7 @@ List of Nepalese Software Companies Hosting Projects on Github
 - [Braindigit IT Solution](https://github.com/braindigit)
 - [Cixware Pvt. Ltd.](https://github.com/cixware)
 - [CloudFactory](https://github.com/cloudfactory)
+- [Codekavya](https://github.com/codekavya)
 - [Cyclone Nepal](https://github.com/cninfotech)
 - [Do Surf In Private Limited](https://github.com/DoSurfIn)
 - [Ekbana Technologies](https://github.com/ekbanasolutions)
