@@ -18,6 +18,7 @@ List of Nepalese Software Companies Hosting Projects on Github
 - [Grepsr](https://github.com/grepsr)
 - [ITVilla Pvt. Ltd.](https://github.com/itvilla)
 - [Inbox IT Solutions](https://github.com/InboxITSolutions)
+- [IntroCept](https://github.com/IntroCept)
 - [Jankari Tech Pvt. Ltd.](https://github.com/JankariTech)
 - [Janaki Technology Pvt. Ltd.](https://github.com/janakitech)
 - [Jyaasa Technologies](https://github.com/Jyaasa)
