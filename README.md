@@ -3,6 +3,7 @@ List of Nepalese Software Companies Hosting Projects on Github
 
 
 - [AdSanjal](https://github.com/AdSanjal)
+- [Astranix Technologies Pvt. Ltd.](https://github.com/theastranix)
 - [Awecode](https://github.com/awecode)
 - [Bajra Technologies](https://github.com/bajratech)
 - [Braindigit IT Solution](https://github.com/braindigit)
